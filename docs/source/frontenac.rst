@@ -5,6 +5,20 @@ Tips and tricks for the `Frontenac CAC cluster <https://cac.queensu.ca>`_
 
 Read through the CAC wiki for a primer on logging in and submitting batch jobs. 
 
+.. lmod:
+
+Lmod Module System
+------------------
+The environment module system used by Frontenac is
+`Lmod <https://lmod.readthedocs.io/>`_. You use the command ``module`` to interact
+with it. To load a module you use ``module load``, unload with
+``module unload``, search for modules with ``module spider``, and see loaded
+modules with ``module list``.
+
+.. tip::
+
+   For further info, use ``module --help`` to see other functions of Lmod. 
+
 .. mesa:
 
 Running MESA
