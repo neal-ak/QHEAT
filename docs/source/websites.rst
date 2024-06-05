@@ -51,6 +51,10 @@ Writing Help
     can download the sample image and upload it to Coblis to see what each map
     looks like in various CVDs.
 
+`Coolors Colour Picker <https://coolors.co/>`_
+    A website that can automatically generate colour palets for plotting,
+    poster, and presentations. You can lock one or more colours and continue
+    generating until you find a set you like.
 
 Programming Help
 ----------------

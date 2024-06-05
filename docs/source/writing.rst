@@ -10,6 +10,19 @@ Links
 
 David Mermin's advice on :download:`punctuation in equations <files/mermin.pdf>`.
 
+Queen's University Thesis Template
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The information on general thesis formatting for graduate studies can be found
+`here <https://www.queensu.ca/grad-postdoc/grad-studies/completion/thesis-formatting>`_.
+Originally Queen's advertised a LaTeX template on this page that was maintained
+by the computer science department. It can still be found in the
+`Overleaf templates <https://www.overleaf.com/latex/templates/queens-university-canada-thesis-template/tcbrknhftbzm>`_,
+the
+`archived hosting page <https://web.archive.org/web/20220702195011/https://gcs.cs.queensu.ca/document-preparation/latex/thesis-template-2/>`_,
+or the
+`current hosting page <https://sites.cs.queensu.ca/gradseries/help/doc_writing/thesistemplate/thesisTemplate.htm>`_.
+
+
 .. _writingtext:
 
 Advice from fellow physicists

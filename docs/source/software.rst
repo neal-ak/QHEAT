@@ -53,3 +53,11 @@ Statistics and global fitting
 
 `GAMBIT <https://gambit.hepforge.org>`_
     A global fitting code for generic Beyond the Standard Model theories, designed to allow fast and easy definition of new models, observables, likelihoods, scanners and backend physics codes.
+
+Writing
+-------
+
+`KLatexFormula <https://klatexformula.sourceforge.io>`_
+    A standalone software that can render LaTeX formulae into png or pdf. Useful
+    for rendering math for presentations. Needs a working LaTeX installation on
+    the system.
