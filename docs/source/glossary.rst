@@ -155,6 +155,15 @@ notable feature is that the dark matter is transformed into a right-handed
 neutrino inside this loop. These models can then explain the origin of neutrino
 masses.
 
+.. _transition-edge-sensor:
+
+Transition Edge Sensor
+**********************
+A TES is a superconductor that is held at a temperature just inside the superconducting
+range, such that any small quantity of energy deposition will raise it into the
+non-superconducting region. This can be read as a significant increase in the
+resistance.
+
 .. _uhe-events:
 
 Upgoing Ultra-High-Energy (UHE) Events
