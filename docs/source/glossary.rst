@@ -23,6 +23,15 @@ Milky Way Analogue
 A galaxy with properties similar to our own. Used to understand our galaxy by
 looking at similar ones that appear when performing simulations of the Universe.
 
+.. _navarro-frenk-white-profile:
+
+Navarro-Frenk-White Profile
+***************************
+A mathematical description of the density as a function of radius of dark matter
+halos. Coming from fits to simulations without baryons. The structure of the
+universe was observed to be self-similar in these simulations with different
+size scale NFW profile halos.
+
 .. _pta:
 
 Pulsar Timing Array
